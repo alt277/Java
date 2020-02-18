@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         PhoneList list = new PhoneList();
         list.addPhone("8 903 787-54-21","Senya");
+        list.addPhone("8 903 787-54-21","Senya");
         list.addPhone("8 903 187-34-25","Tanya");
         list.addPhone("8 903 337-54-15","Vanya");
         list.addPhone("8 408 187-00-25","Sanya");
