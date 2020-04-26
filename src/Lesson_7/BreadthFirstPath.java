@@ -7,7 +7,6 @@ public class BreadthFirstPath {
     private int[] edgeTo;
     private int[] distTo;
     private int source;
-
     private final int INFINITY = Integer.MAX_VALUE;
 
     public BreadthFirstPath(Graph g, int source) {
