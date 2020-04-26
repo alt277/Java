@@ -3,7 +3,6 @@ package DZ;
 
 import java.util.Objects;
 
-
 public class Vertex {
 
     private String value;        //значение
